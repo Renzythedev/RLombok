@@ -20,9 +20,9 @@ If you're using Maven, add the following dependency to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>com.your.package</groupId>
-    <artifactId>getter-setter-api</artifactId>
-    <version>1.0.0</version>
+    <groupId>me.renzy</groupId>
+    <artifactId>RLombok</artifactId>
+    <version>1.0</version>
 </dependency>
 ```
 
